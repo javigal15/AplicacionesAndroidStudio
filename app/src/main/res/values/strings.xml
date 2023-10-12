@@ -1,0 +1,35 @@
+<resources>
+
+    // First APP
+    <string name="app_name">Aprendiendo</string>
+
+    // IMC APP
+    <string name="male">Hombre</string>
+    <string name="female">Mujer</string>
+    <string name="height">Altura</string>
+    <string name="weight">Peso</string>
+    <string name="age">Edad</string>
+    <string name="calculate">Calcular</string>
+    <string name="result">Tu Resultado</string>
+    <string name="recalculate">Recalcular</string>
+    <string name="error">Error</string>
+    <string name="title_bajo_peso">Bajo peso</string>
+    <string name="description_bajo_peso">Estas por debajo de lo optimo para tu peso y tamaño</string>
+    <string name="title_normal_peso">Peso normal</string>
+    <string name="description_normal_peso">Estas en lo optimo para tu peso y tamaño</string>
+    <string name="title_sobre_peso">Sobrepeso</string>
+    <string name="description_sobre_peso">Estas por encima de lo optimo para tu peso y tamaño</string>
+    <string name="title_obesidad_peso">Obesidad</string>
+    <string name="description_obesidad_peso">Estas muy por encima de lo optimo para tu peso y tamaño</string>
+
+    // TODO APP
+    <string name="todo_title">Bienvenido</string>
+    <string name="todo_category">Categoría</string>
+    <string name="todo_tasks">Tareas</string>
+    <string name="todo_dialog_add_task">Añade la tarea</string>
+    <string name="todo_business">Negocios</string>
+    <string name="todo_personal">Personal</string>
+    <string name="todo_other">Otros</string>
+    <string name="todo_add_task">Agregar tarea</string>
+
+</resources>
